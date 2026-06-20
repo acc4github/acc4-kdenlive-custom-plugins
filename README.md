@@ -1,9 +1,10 @@
 # Acc4's Custom Kdenlive Effects & Transitions
 
-This is a unified installer for my custom plugins
+Download: https://github.com/acc4github/acc4-kdenlive-custom-plugins/releases/download/initial-release/acc4.s.custom.kdenlive.effects.transitions.1.0.exe
+
+This is a simple, unified installer for my custom plugins. You can easily install/uninstall them.
+
 - https://github.com/acc4github/kdenlive-omnislide
 - https://github.com/acc4github/kdenlive-omniwipe
 - https://github.com/acc4github/kdenlive-omnifade
 - https://github.com/acc4github/kdenlive-camerashake-organic
-
-- 
