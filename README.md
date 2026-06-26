@@ -1,6 +1,6 @@
 # Acc4's Custom Kdenlive Effects & Transitions
 
-**[Download](https://github.com/acc4github/acc4-kdenlive-custom-plugins/releases/download/initial-release/acc4.s.custom.kdenlive.effects.transitions.1.0.exe)**
+**[Download](https://github.com/acc4github/acc4-kdenlive-custom-plugins/releases/download/update-1.1/acc4.s.custom.kdenlive.effects.transitions.1.1.exe)**
 
 This is a simple, unified installer for my custom plugins for Kdenlive. You can easily install/uninstall them.  
 
